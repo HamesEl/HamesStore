@@ -34,13 +34,17 @@ To get a local copy up and running follow these steps:
 
 2. Navigate to the project directory:
 
+    ```bash
     cd HamesStore
 
 3. Install the dependencies:
 
+    ```bash
     npm install
 
 4. Run the development server:
+
+    ```bash
     ng serve
 
 5. Open your browser and go to http://localhost:4200 to see the application in action.
