@@ -1,27 +1,58 @@
-# GamaStore
+# 🛒 HamesStore
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.1.2.
+HamesStore is an e-commerce application built using [FakeStoreAPI](https://fakestoreapi.com/). It allows users to view products, add items to the cart, and store all products in local storage. The total price of all items in the cart is calculated and displayed.
 
-## Development server
+## 🛠️ Features
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+- 👀 Browse products from FakeStoreAPI.
+- ➕ Add products to the shopping cart.
+- 🛍️ Persist cart items in local storage.
+- 💰 Calculate and display the total price of all items in the cart.
 
-## Code scaffolding
+## 🔧 Technologies Used
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+- [Angular 18.0.1](https://angular.io/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Flowbite](https://flowbite.com/)
+- [Ngxtension](https://ngxtension.io/)
 
-## Build
+## 🚀 Getting Started
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+To get a local copy up and running follow these steps:
 
-## Running unit tests
+### 🎯 Prerequisites
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+- Node.js and npm installed.
+- Angular CLI installed.
 
-## Running end-to-end tests
+### 📥 Installation
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+1. Clone the repository:
 
-## Further help
+   ```bash
+   git clone https://github.com/yourusername/HamesStore.git
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+2. Navigate to the project directory:
+
+    cd HamesStore
+
+3. Install the dependencies:
+
+    npm install
+
+4. Run the development server:
+    ng serve
+
+5. Open your browser and go to http://localhost:4200 to see the application in action.
+
+## 👀 Usage
+
+- 🛍️ Browse through the list of products.
+- ➕ Click on "Add to Cart" to add products to your shopping cart.
+- 🛒 View the cart to see all added items and their total price.
+
+## 📞 Contact
+
+Harold Elías - haroldelias3007@gmail.com
+
+Project Link: [https://github.com/HamesEl/HamesStore](https://github.com/HamesEl/HamesStore)
